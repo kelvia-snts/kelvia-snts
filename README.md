@@ -5,3 +5,5 @@
 
 ### About me
 I'm a {Full Stack} developer student at [Labenu](https://www.labenu.com.br/).
+
+- [Courses]👨🏼‍🏫 - Post-graduate student - Agile Project Management at [CesarSchool](https://www.cesar.school/)
