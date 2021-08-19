@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/UltimoK_)
 
 ### About me
-I'm a developer I student at Grupo Boticário and
+I'm a developer I at Grupo Boticário and
 Agile Project Management student at [CesarSchool](https://www.cesar.school/)
 
 Thanks for visiting.
